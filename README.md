@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/agustin-loos-024294217/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/agustinso0/)
 
-## 💻 Aspiring Software Developer | 🚀 Web Development & AI Enthusiast
+## 💻 Aspiring Software Developer | 🚀 Web Development
 
-I'm a passionate Software Developer student based in Bahia Blanca, Buenos Aires, Argentina. With a keen interest in web development and AI, I love turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate Software Developer student based in Bahia Blanca, Buenos Aires, Argentina. With a keen interest in web development, I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ## 🔧 Technologies & Tools
 
@@ -32,20 +32,10 @@ A dynamic and responsive website powered by React and JavaScript, offering an in
 ### [Institutional Website](https://tecnica1suarez.edu.ar/)
 My first personal project, developed as a final integrative work for my secondary education institution. Built using PHP and SQL, this project laid the foundation for my web development journey.
 
-## 📊 GitHub Stats
-
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinso0&show_icons=true&theme=radical)
-
 ## 🎓 Education
 
 - 🏫 Information Systems Engineering at Universidad Nacional del Sur (2022 - 2023)
 - 🏫 University degree in programming at Universidad Tecnológica Nacional (2024 - Present)
-
-## 🌱 Currently Learning
-
-- Advanced TypeScript
-- Docker
-- Cloud Computing
 
 ## 💼 Professional Experience
 
@@ -59,7 +49,7 @@ My first personal project, developed as a final integrative work for my secondar
 
 ## 🤝 Open to Collaborate
 
-I'm always excited about collaborating on interesting projects, especially in web development and AI. If you have an idea or need help with something, feel free to reach out!
+I'm always excited about collaborating on interesting projects, especially in web development. If you have an idea or need help with something, feel free to reach out!
 
 ## 📫 How to Reach Me
 
