@@ -26,9 +26,6 @@ I'm a passionate Software Developer student based in Bahia Blanca, Buenos Aires,
 ### [Portfolio](https://agustinloos.dev)
 A responsive portfolio website built with React and TypeScript, featuring a comprehensive content management system for easy updates and customization. The backend is powered by MongoDB for efficient data management.
 
-### [Quarry Notifications](https://github.com/agustinso0/QuarryNotifications)
-A plugin for Rust designed to enhance gameplay experience by providing detailed notifications and map markers for specific quarry activities. Developed in C# with API integration for seamless functionality.
-
 ### [La Lomita](https://espaciolalomita.com)
 A dynamic and responsive website powered by React and JavaScript, offering an intuitive content management system to streamline updates and ensure seamless user experience across devices. MongoDB is used for efficient data storage and retrieval.
 
