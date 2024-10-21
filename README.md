@@ -11,19 +11,29 @@ I'm a passionate Software Developer student based in Bahia Blanca, Buenos Aires,
 ## 🔧 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🌟 Featured Projects
 
-### [Project Name 1](https://github.com/agustinso0/project1)
-Brief description of the project and technologies used.
+### [Portfolio](https://agustinloos.dev)
+A responsive portfolio website built with React and TypeScript, featuring a comprehensive content management system for easy updates and customization. The backend is powered by MongoDB for efficient data management.
 
-### [Project Name 2](https://github.com/agustinso0/project2)
-Brief description of the project and technologies used.
+### [Quarry Notifications](https://github.com/agustinso0/QuarryNotifications)
+A plugin for Rust designed to enhance gameplay experience by providing detailed notifications and map markers for specific quarry activities. Developed in C# with API integration for seamless functionality.
+
+### [La Lomita](https://espaciolalomita.com)
+A dynamic and responsive website powered by React and JavaScript, offering an intuitive content management system to streamline updates and ensure seamless user experience across devices. MongoDB is used for efficient data storage and retrieval.
+
+### [Institutional Website](https://tecnica1suarez.edu.ar/)
+My first personal project, developed as a final integrative work for my secondary education institution. Built using PHP and SQL, this project laid the foundation for my web development journey.
 
 ## 📊 GitHub Stats
 
@@ -36,7 +46,7 @@ Brief description of the project and technologies used.
 
 ## 🌱 Currently Learning
 
-- TypeScript
+- Advanced TypeScript
 - Docker
 - Cloud Computing
 
