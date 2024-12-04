@@ -54,7 +54,7 @@ I'm always excited about collaborating on interesting projects, especially in we
 ## 📫 How to Reach Me
 
 - 📧 Email: loosagustin@gmail.com
-- 💼 LinkedIn: [Agustin Loos](https://www.linkedin.com/in/agustin-loos-024294217/)
+- 💼 LinkedIn: [Agustin Loos](https://www.linkedin.com/in/agustin-l-024294217/)
 - 🌐 Portfolio: [agustinloos.dev](https://agustinloos.dev)
 
 ---
