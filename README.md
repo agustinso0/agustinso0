@@ -1,62 +1,89 @@
-# 👋 Hello, I'm Agustin Loos
+<div align="center">
+  
+# Agustin Loos
+### Backend Developer & Engineering Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://agustinloos.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/agustin-loos-024294217/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=flat-square)](https://github.com/agustinso0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://agustinloos.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-loos-024294217/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agustinso0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loosagustin@gmail.com)
 
-## 💻 Aspiring Backend Developer 
+</div>
 
-I'm a passionate Software Developer student based in Bahia Blanca, Buenos Aires, Argentina. 
+## About Me 👨‍💻
 
-## 🔧 Technologies & Tools
+I'm a passionate Software Developer based in Bahia Blanca, Argentina, specializing in backend development. Currently pursuing a University degree in programming at UTN, I combine academic excellence with practical experience to create robust and scalable solutions.
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=asp-net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Tech Stack 🛠️
 
-## 🌟 Featured Projects
+### Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### [Portfolio](https://agustinloos.dev)
-A responsive portfolio website built with React and TypeScript, featuring a comprehensive content management system for easy updates and customization. The backend is powered by MongoDB for efficient data management.
+### Frameworks & Technologies
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Featured Projects 🚀
+
+### [Portfolio Website](https://agustinloos.dev)
+A modern, responsive portfolio showcasing my work and skills
+- **Tech Stack**: React, TypeScript, MongoDB
+- **Features**: CMS integration, responsive design
+- **Status**: Live & maintained
 
 ### [La Lomita](https://espaciolalomita.com)
-A dynamic and responsive website powered by React and JavaScript, offering an intuitive content management system to streamline updates and ensure seamless user experience across devices. MongoDB is used for efficient data storage and retrieval.
+Dynamic website for event space management
+- **Tech Stack**: React, JavaScript, MongoDB
+- **Features**: Content management, booking system
+- **Status**: Production
 
 ### [Institutional Website](https://tecnica1suarez.edu.ar/)
-My first personal project, developed as a final integrative work for my secondary education institution. Built using PHP and SQL, this project laid the foundation for my web development journey.
+First major project - School website
+- **Tech Stack**: PHP, MySQL
+- **Features**: Content management, student portal
+- **Status**: Live
 
-## 🎓 Education
+## Education 📚
 
-- 🏫 Information Systems Engineering at Universidad Nacional del Sur (2022 - 2023)
-- 🏫 University degree in programming at Universidad Tecnológica Nacional (2024 - Present)
+| Institution | Program | Period |
+|------------|----------|---------|
+| Universidad Tecnológica Nacional | University Degree in Programming | 2024 - Present |
+| Universidad Nacional del Sur | Information Systems Engineering | 2022 - 2023 |
 
-## 💼 Professional Experience
+## Professional Experience 💼
 
-- Apprentice Trainee at Smurfit Westrock (Jan 2024 - Mar 2024)
-  - Focused on maintenance and management of systems, networks, and devices
+**Apprentice Trainee** at Smurfit Westrock *(Jan 2024 - Mar 2024)*
+- Systems maintenance and management
+- Network infrastructure support
+- Device management and optimization
 
-## 🌍 Languages
+## Languages 🌐
 
-- Spanish (Native)
-- English (Intermediate)
+- Spanish *(Native)*
+- English *(Intermediate)* 
 
-## 🤝 Open to Collaborate
+## Let's Connect! 🤝
 
-I'm always excited about collaborating on interesting projects, especially in web development. If you have an idea or need help with something, feel free to reach out!
+I'm always interested in collaborating on innovative projects and connecting with fellow developers. Whether you have a project idea or just want to chat about technology, feel free to reach out!
 
-## 📫 How to Reach Me
+<div align="center">
 
-- 📧 Email: loosagustin@gmail.com
-- 💼 LinkedIn: [Agustin Loos](https://www.linkedin.com/in/agustin-l-024294217/)
-- 🌐 Portfolio: [agustinloos.dev](https://agustinloos.dev)
+[![Portfolio](https://img.shields.io/badge/Check_out_my_portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://agustinloos.dev)
+
+</div>
 
 ---
 
-⭐️ From [agustinso0](https://github.com/agustinso0)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agustinso0&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
