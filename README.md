@@ -1,89 +1,182 @@
 <div align="center">
-  
-# Agustin Loos
-### Backend Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://agustinloos.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustinloos/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agustinso0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loosagustin@gmail.com)
+# Agustin Loos
+
+### Full Stack Developer • Backend-Oriented
+
+*Building scalable systems and robust APIs*
+
+[Portfolio](https://agustinloos.dev) | [LinkedIn](https://www.linkedin.com/in/agustinloos/) | [GitHub](https://github.com/agustinso0) | [Email](mailto:loosagustin@gmail.com)
+
+---
 
 </div>
 
-## About Me 👨‍💻
+## Overview
 
-I'm a passionate Software Developer based in Bahia Blanca, Argentina, specializing in backend development. Currently pursuing a University degree in programming at UTN, I combine academic excellence with practical experience to create robust and scalable solutions.
+Full Stack Developer with specialized expertise in backend architecture and system design. I architect and build scalable APIs, design resilient database systems, and develop production-ready applications. Recently graduated in Software Development with a proven track record in microservices, enterprise systems, and real-world project delivery.
 
-## Tech Stack 🛠️
+---
+
+## Core Technology Stack
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+```
+JavaScript • TypeScript • C# • Python • SQL • Bash
+```
 
-### Frameworks & Technologies
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Backend & Architecture
+```
+Node.js • Express.js • NestJS
+Microservices Architecture • Monolithic Systems • RESTful APIs
+Domain-Driven Design • Backend Patterns & Best Practices
+```
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Databases & Data
+```
+MongoDB • PostgreSQL • MySQL • SQL Server
+Query Optimization • Database Indexing • Data Modeling
+MongoDB Aggregation Pipelines • Schema Design
+```
 
-## Featured Projects 🚀
+### Frontend & UI
+```
+React • HTML5 • CSS3 • TypeScript
+Responsive Design • State Management (Context API, Redux)
+REST API Integration • Component Architecture
+```
 
-### [Portfolio Website](https://agustinloos.dev)
-A modern, responsive portfolio showcasing my work and skills
-- **Tech Stack**: React, TypeScript, MongoDB
-- **Features**: CMS integration, responsive design
-- **Status**: Live & maintained
+### DevOps & Infrastructure
+```
+Docker • Docker Compose • CI/CD Pipelines
+Git & Version Control • Linux • Environment Configuration
+Cloud Deployment Basics
+```
 
-### [La Lomita](https://espaciolalomita.com)
-Dynamic website for event space management
-- **Tech Stack**: React, JavaScript, MongoDB
-- **Features**: Content management, booking system
-- **Status**: Production
+### Developer Tools & AI
+```
+AI-Assisted Development • Prompt Engineering • LLM APIs
+VS Code • Development Automation • Testing Frameworks
+```
 
-### [Institutional Website](https://tecnica1suarez.edu.ar/)
-First major project - School website
-- **Tech Stack**: PHP, MySQL
-- **Features**: Content management, student portal
-- **Status**: Live
+---
 
-## Education 📚
+## Expertise Areas
 
-| Institution | Program | Period |
-|------------|----------|---------|
-| Universidad Tecnológica Nacional | University Degree in Programming | 2024 - Present |
-| Universidad Nacional del Sur | Information Systems Engineering | 2022 - 2023 |
+### Backend Development
+- **Framework Proficiency:** Advanced Node.js/Express.js, NestJS
+- **Architecture Patterns:** Microservices, monolithic systems, scalable API design
+- **API Development:** RESTful API design, validation, error handling, versioning
+- **Security:** JWT authentication, authorization layers, secure credential management
 
-## Professional Experience 💼
+### System Architecture
+- **Design Thinking:** Data structure optimization, algorithmic efficiency
+- **Scalability:** Load balancing considerations, database optimization
+- **Reliability:** Error handling, logging, monitoring patterns
 
-**Apprentice Trainee** at Smurfit Westrock *(Jan 2024 - Mar 2024)*
-- Systems maintenance and management
-- Network infrastructure support
-- Device management and optimization
+### Database Engineering
+- **Advanced MongoDB:** Aggregation pipelines, indexing strategies, replica sets
+- **SQL Mastery:** Complex queries, stored procedures, transaction management
+- **Performance:** Query optimization, connection pooling, caching strategies
 
-## Languages 🌐
+### Computer Science Fundamentals
+- Advanced data structures and algorithm analysis
+- Object-oriented and functional programming paradigms
+- System design and architectural thinking
 
-- Spanish *(Native)*
-- English *(Intermediate)* 
+### Frontend Development
+- Advanced React with TypeScript
+- Component composition and state management
+- Integration with backend systems
+- Responsive and accessible design implementation
 
-## Let's Connect! 🤝
+---
 
-I'm always interested in collaborating on innovative projects and connecting with fellow developers. Whether you have a project idea or just want to chat about technology, feel free to reach out!
+## Featured Projects
+
+### Personal Portfolio
+**Modern Full-Stack Application**
+- **Stack:** React, TypeScript, MongoDB, Node.js
+- **Highlights:** Custom CMS integration, responsive design, optimization
+- **Status:** Live • [Visit](https://agustinloos.dev)
+
+### La Lomita Event Space
+**Dynamic Content Management Platform**
+- **Stack:** React, JavaScript, MongoDB, Express.js
+- **Features:** Content management system, booking engine, analytics
+- **Status:** Production
+
+### Financial Analytics Dashboard & ERP System
+**Enterprise Business Management Suite** (Aloise Sur)
+- **Scope:** Multi-module system (analytics, inventory, quotations)
+- **Architecture:** Modular backend with React frontend
+- **Impact:** Automated pricing workflows, real-time inventory tracking
+
+---
+
+## Professional Experience
+
+### Full Stack Developer (Freelance / Budget-based Contract)
+**Aloise Sur** • Mar 2025 – Oct 2025
+
+Delivered comprehensive financial and operational management systems:
+- Architected financial analytics dashboard with real-time data visualization
+- Built modular ERP system for product and stock management
+- Developed intelligent quotation tool with dynamic pricing logic
+- Implemented role-based access control and data validation
+
+*Tech:* Node.js, Express.js, React, TypeScript, MongoDB
+
+---
+
+### Apprentice Trainee
+**Smurfit Westrock** • Jan 2024 – May 2024
+
+Systems infrastructure and operational support:
+- Network infrastructure maintenance and troubleshooting
+- Systems administration and device configuration
+- Infrastructure optimization and performance tuning
+
+---
+
+## Education
+
+### University Degree in Programming
+**Universidad Tecnológica Nacional (UTN)** • 2024 – 2025 • ✓ Completed
+
+### Information Systems Engineering
+**Universidad Nacional del Sur** • 2022 – 2023 • Abandoned
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|----------|------------|
+| Spanish | Native |
+| English | Intermediate |
+
+---
+
+## Get In Touch
+
+I'm interested in collaborating on innovative projects, discussing backend architecture, and connecting with the developer community. Let's work together on something meaningful.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Check_out_my_portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://agustinloos.dev)
+**[Explore My Work](https://agustinloos.dev)** • **[Connect on LinkedIn](https://www.linkedin.com/in/agustinloos/)** • **[View GitHub](https://github.com/agustinso0)**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustinso0&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agustinso0&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinso0&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Last updated: 2026 • Full Stack Developer • Backend-Oriented</sub>
 </div>
