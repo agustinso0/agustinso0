@@ -2,169 +2,151 @@
 
 # Agustin Loos
 
-### Full Stack Developer • Backend-Oriented
+### Full Stack Developer | React, Node.js, NestJS, TypeScript | AI-assisted development
 
-*Building scalable systems and robust APIs*
+Building web applications, REST APIs, and modular backend systems with a strong focus on clarity, maintainability, and real business needs.
 
 [Portfolio](https://agustinloos.dev) | [LinkedIn](https://www.linkedin.com/in/agustinloos/) | [GitHub](https://github.com/agustinso0) | [Email](mailto:loosagustin@gmail.com)
 
----
-
 </div>
 
-## Overview
+---
 
-Full Stack Developer with specialized expertise in backend architecture and system design. I architect and build scalable APIs, design resilient database systems, and develop production-ready applications. Recently graduated in Software Development with a proven track record in microservices, enterprise systems, and real-world project delivery.
+## About Me
+
+I'm a Full Stack Developer with a backend focus, specialized in React, Node.js, NestJS, and TypeScript.
+
+I work on web applications, REST APIs, and modular systems, combining technical judgment, good development practices, and a practical approach to solving real business problems.
+
+I also use AI-assisted development as part of my engineering workflow. Tools like OpenCode, Engram, and Gentle AI help me analyze code, document decisions, guide refactors, review inconsistencies, and break down work into safer increments. I use SDD and TDD to reduce uncertainty, validate changes with tests, and avoid scaling complexity too early.
 
 ---
 
-## Core Technology Stack
+## Technical Skills
 
 ### Languages
-```
-JavaScript • TypeScript • C# • Python • SQL • Bash
+
+```txt
+JavaScript | TypeScript | SQL | HTML5 | CSS3
 ```
 
-### Backend & Architecture
-```
-Node.js • Express.js • NestJS
-Microservices Architecture • Monolithic Systems • RESTful APIs
-Domain-Driven Design • Backend Patterns & Best Practices
+### Frontend
+
+```txt
+React | Next.js | Redux | State Management | API Integration
+Reusable Components | Forms | Responsive Design | HTML | CSS
 ```
 
-### Databases & Data
-```
-MongoDB • PostgreSQL • MySQL • SQL Server
-Query Optimization • Database Indexing • Data Modeling
-MongoDB Aggregation Pipelines • Schema Design
+### Backend
+
+```txt
+Node.js | NestJS | Express.js | RESTful APIs | JWT
+Authentication | Authorization | Data Validation | Error Handling
+Modular Architecture | Service Design | WebSockets
 ```
 
-### Frontend & UI
-```
-React • HTML5 • CSS3 • TypeScript
-Responsive Design • State Management (Context API, Redux)
-REST API Integration • Component Architecture
+### Databases
+
+```txt
+PostgreSQL | SQL | MongoDB | Redis | Prisma ORM
+Data Modeling | Schema Design | Entity Relationships | Query Optimization
 ```
 
-### DevOps & Infrastructure
-```
-Docker • Docker Compose • CI/CD Pipelines
-Git & Version Control • Linux • Environment Configuration
-Cloud Deployment Basics
+### Testing, Quality, and DevOps
+
+```txt
+TDD | Jest | Unit Tests | Integration Tests | E2E Tests
+ESLint | Prettier | Type Checking | Docker | Linux
+Git | GitHub | GitHub Actions | CI/CD | Troubleshooting
 ```
 
-### Developer Tools & AI
-```
-AI-Assisted Development • Prompt Engineering • LLM APIs
-VS Code • Development Automation • Testing Frameworks
+### AI-Assisted Development
+
+```txt
+OpenCode | Engram | Gentle AI | SDD | TDD
+AI-assisted code analysis | Guided refactoring | Test generation and review
+Technical documentation | Incremental planning
 ```
 
 ---
 
-## Expertise Areas
+## Featured Project
 
-### Backend Development
-- **Framework Proficiency:** Advanced Node.js/Express.js, NestJS
-- **Architecture Patterns:** Microservices, monolithic systems, scalable API design
-- **API Development:** RESTful API design, validation, error handling, versioning
-- **Security:** JWT authentication, authorization layers, secure credential management
+### Passenger Transportation Management System | Backend API
 
-### System Architecture
-- **Design Thinking:** Data structure optimization, algorithmic efficiency
-- **Scalability:** Load balancing considerations, database optimization
-- **Reliability:** Error handling, logging, monitoring patterns
+Backend project focused on managing passenger transportation operations, bookings, trips, companies, users, vehicles, drivers, payments, invoicing, notifications, and operational analytics.
 
-### Database Engineering
-- **Advanced MongoDB:** Aggregation pipelines, indexing strategies, replica sets
-- **SQL Mastery:** Complex queries, stored procedures, transaction management
-- **Performance:** Query optimization, connection pooling, caching strategies
+**Technical stack:** Node.js 20, NestJS 11, TypeScript strict, PostgreSQL, Prisma ORM, Redis, BullMQ, JWT/Passport, Swagger/OpenAPI, Jest, Docker, GitHub Actions, ESLint, and Prettier.
 
-### Computer Science Fundamentals
-- Advanced data structures and algorithm analysis
-- Object-oriented and functional programming paradigms
-- System design and architectural thinking
+**Highlights:**
 
-### Frontend Development
-- Advanced React with TypeScript
-- Component composition and state management
-- Integration with backend systems
-- Responsive and accessible design implementation
+- Modular monolith architecture with clear domain boundaries.
+- Modules for Auth, Companies, Users, Drivers, Vehicles, Routes, Trips, Bookings, Payments, Invoices, Notifications, Analytics, Audit Log, and Health.
+- Multi-tenant approach with request-based context resolution and support for asynchronous flows.
+- Ports/adapters pattern to decouple use cases, persistence, and cross-module integrations.
+- PostgreSQL and Prisma for relational modeling, repositories, migrations, and controlled data access.
+- Redis for cache, locks, rate limiting, and support for asynchronous processes.
+- BullMQ jobs for repeatable tasks and background processing.
+- Domain events and outbox pattern to improve traceability and internal consistency.
+- Swagger/OpenAPI documentation, environment contracts, and technical system documentation.
+- Jest testing across unit, integration, and e2e layers, including architecture guardrails, coverage, and regression checks.
+- SDD workflow to split complex changes into proposal, design, specification, tasks, and verification before implementation.
+- TDD and AI-assisted workflows to generate test hypotheses, detect edge cases, review regressions, and validate refactors without losing technical control.
 
 ---
 
-## Featured Projects
+## Experience
 
-### Personal Portfolio
-**Modern Full-Stack Application**
-- **Stack:** React, TypeScript, MongoDB, Node.js
-- **Highlights:** Custom CMS integration, responsive design, optimization
-- **Status:** Live • [Visit](https://agustinloos.dev)
+### Full Stack Developer (Freelance) | Aloise Sur
 
-### La Lomita Event Space
-**Dynamic Content Management Platform**
-- **Stack:** React, JavaScript, MongoDB, Express.js
-- **Features:** Content management system, booking engine, analytics
-- **Status:** Production
+**Mar 2025 - Oct 2025**
 
-### Financial Analytics Dashboard & ERP System
-**Enterprise Business Management Suite** (Aloise Sur)
-- **Scope:** Multi-module system (analytics, inventory, quotations)
-- **Architecture:** Modular backend with React frontend
-- **Impact:** Automated pricing workflows, real-time inventory tracking
+- Developed features for a financial dashboard, improving consultation and visualization of operational information.
+- Contributed to the implementation of an ERP system focused on reducing manual tasks and organizing internal processes.
+- Designed and developed full stack features using Next.js, TypeScript, and databases.
+- Worked on the integration between frontend, business logic, and data persistence.
+- Implemented Docker to standardize development environments and reduce environment differences.
+- Collaborated on a modular structure to support system growth.
+- Optimized queries and data structures to improve response times in frequent operations.
+- Developed administrative interfaces and management views focused on usability and clear information display.
+- Participated in requirements analysis and solution definition based on business needs.
 
----
+### Trainee Apprentice | Smurfit Westrock
 
-## Professional Experience
+**Jan 2024 - May 2024**
 
-### Full Stack Developer (Freelance / Budget-based Contract)
-**Aloise Sur** • Mar 2025 – Oct 2025
-
-Delivered comprehensive financial and operational management systems:
-- Architected financial analytics dashboard with real-time data visualization
-- Built modular ERP system for product and stock management
-- Developed intelligent quotation tool with dynamic pricing logic
-- Implemented role-based access control and data validation
-
-*Tech:* Node.js, Express.js, React, TypeScript, MongoDB
-
----
-
-### Apprentice Trainee
-**Smurfit Westrock** • Jan 2024 – May 2024
-
-Systems infrastructure and operational support:
-- Network infrastructure maintenance and troubleshooting
-- Systems administration and device configuration
-- Infrastructure optimization and performance tuning
+- Provided technical support to internal users, resolving incidents related to systems, connectivity, and equipment.
+- Performed preventive and corrective maintenance tasks on systems and networks.
+- Collaborated in the detection and resolution of technical issues within a corporate environment.
+- Documented incidents and basic procedures to support follow-up of recurring problems.
+- Strengthened troubleshooting, user communication, and support skills in production environments.
 
 ---
 
 ## Education
 
-### University Degree in Programming
-**Universidad Tecnológica Nacional (UTN)** • 2024 – 2025 • ✓ Completed
-
-### Information Systems Engineering
-**Universidad Nacional del Sur** • 2022 – 2023 • Abandoned
+- **University Technician in Programming** | Universidad Tecnológica Nacional FRBB | 2024 - 2025 | GPA: 8.78
+- **Information Systems Engineering** | Universidad Nacional del Sur | 2022 - 2023
+- **Professional and Personal IT Technician** | Escuela de Educación Secundaria Técnica N. º 1, Coronel Suárez | 2015 - 2021
 
 ---
 
 ## Languages
 
 | Language | Proficiency |
-|----------|------------|
+| --- | --- |
 | Spanish | Native |
 | English | Intermediate |
 
 ---
 
-## Get In Touch
+## Contact
 
-I'm interested in collaborating on innovative projects, discussing backend architecture, and connecting with the developer community. Let's work together on something meaningful.
+I'm interested in backend architecture, full stack product development, technical quality, and practical AI-assisted engineering workflows.
 
 <div align="center">
 
-**[Explore My Work](https://agustinloos.dev)** • **[Connect on LinkedIn](https://www.linkedin.com/in/agustinloos/)** • **[View GitHub](https://github.com/agustinso0)**
+**[Portfolio](https://agustinloos.dev)** | **[LinkedIn](https://www.linkedin.com/in/agustinloos/)** | **[GitHub](https://github.com/agustinso0)** | **[Email](mailto:loosagustin@gmail.com)**
 
 </div>
 
@@ -178,5 +160,5 @@ I'm interested in collaborating on innovative projects, discussing backend archi
 ---
 
 <div align="center">
-  <sub>Last updated: 2026 • Full Stack Developer • Backend-Oriented</sub>
+  <sub>Last updated: 2026 | Full Stack Developer | Backend-Oriented | AI-assisted development</sub>
 </div>
