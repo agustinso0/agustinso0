@@ -2,9 +2,9 @@
 
 # Agustin Loos
 
-### Full Stack Developer | React, Node.js, NestJS, TypeScript | AI-assisted development
+### Full Stack Developer | Backend & IoT
 
-Building web applications, REST APIs, and modular backend systems with a strong focus on clarity, maintainability, and real business needs.
+Building web applications, REST APIs, industrial IoT integrations, and modular backend systems with a strong focus on clean architecture, code quality, and real business needs.
 
 [Portfolio](https://agustinloos.dev) | [LinkedIn](https://www.linkedin.com/in/agustinloos/) | [GitHub](https://github.com/agustinso0) | [Email](mailto:loosagustin@gmail.com)
 
@@ -14,11 +14,9 @@ Building web applications, REST APIs, and modular backend systems with a strong 
 
 ## About Me
 
-I'm a Full Stack Developer with a backend focus, specialized in React, Node.js, NestJS, and TypeScript.
+I'm a Full Stack Developer with a backend focus, working across web applications, REST APIs, industrial IoT integrations, and modular systems.
 
-I work on web applications, REST APIs, and modular systems, combining technical judgment, good development practices, and a practical approach to solving real business problems.
-
-I also use AI-assisted development as part of my engineering workflow. Tools like OpenCode, Engram, and Gentle AI help me analyze code, document decisions, guide refactors, review inconsistencies, and break down work into safer increments. I use SDD and TDD to reduce uncertainty, validate changes with tests, and avoid scaling complexity too early.
+I drive an AI-augmented engineering workflow using Claude Code, OpenCode, and Engram: from architecture design and codebase analysis to guided refactoring, test generation, and persistent decision tracking across sessions. Combined with SDD and TDD, this approach lets me structure requirements, detect edge cases early, and validate changes with comprehensive tests before scaling complexity.
 
 ---
 
@@ -27,7 +25,7 @@ I also use AI-assisted development as part of my engineering workflow. Tools lik
 ### Languages
 
 ```txt
-JavaScript | TypeScript | SQL | HTML5 | CSS3
+JavaScript | TypeScript | Go | SQL | HTML5 | CSS3
 ```
 
 ### Frontend
@@ -40,33 +38,79 @@ Reusable Components | Forms | Responsive Design | HTML | CSS
 ### Backend
 
 ```txt
-Node.js | NestJS | Express.js | RESTful APIs | JWT
-Authentication | Authorization | Data Validation | Error Handling
-Modular Architecture | Service Design | WebSockets
+Node.js | NestJS | Express.js | RESTful APIs | JWT | WebSockets
+Modular Architecture | Service Design | Authentication | Authorization
 ```
 
 ### Databases
 
 ```txt
-PostgreSQL | SQL | MongoDB | Redis | Prisma ORM
-Data Modeling | Schema Design | Entity Relationships | Query Optimization
+PostgreSQL | MongoDB | Redis | Prisma ORM
+Data Modeling | Schema Design | Query Optimization
 ```
 
-### Testing, Quality, and DevOps
+### Testing, Quality & DevOps
 
 ```txt
 TDD | Jest | Unit Tests | Integration Tests | E2E Tests
-ESLint | Prettier | Type Checking | Docker | Linux
-Git | GitHub | GitHub Actions | CI/CD | Troubleshooting
+ESLint | Prettier | Docker | Linux | Git | GitHub Actions | CI/CD
+GitLab self-managed | Nginx (reverse proxy, SSL/TLS, rate limiting)
 ```
 
-### AI-Assisted Development
+### IoT & Embedded
 
 ```txt
-OpenCode | Engram | Gentle AI | SDD | TDD
-AI-assisted code analysis | Guided refactoring | Test generation and review
-Technical documentation | Incremental planning
+MQTT | mTLS | Modbus RTU | Protobuf | AWS IoT Core
+Eclipse hawkBit (OTA) | Embedded C | Zephyr firmware
 ```
+
+### Desktop
+
+```txt
+Go (Wails, Fyne)
+```
+
+### AI-Augmented Development
+
+```txt
+Claude Code | OpenCode | Engram | Gentle AI | SDD | TDD
+Architecture design | Guided refactoring | Test generation
+Cross-session context persistence | Incremental planning
+```
+
+---
+
+## Experience
+
+### Full Stack Developer Jr → Platform Specialist | Pump Control S.R.L.
+
+**June 2026 – present**
+
+Industrial IoT — fuel measurement and control equipment for the oil & gas industry.
+
+- Built and maintained the internal technical documentation platform (Docusaurus + multi-repo federation pipeline), integrating corporate SSO (Microsoft Entra ID) and a Go backend service for tiered authorization and access auditing of private manuals.
+- Designed and implemented, through full SDD/TDD cycles, the deployment of an OTA update server (Eclipse hawkBit) across testing and production, including Zephyr firmware and a device simulator to validate the full flow against real hardware.
+- Built a Go-based CI/CD tool for secure firmware secret distribution via GitLab Package Registry, adopted by the Firmware team; diagnosed and fixed real production bugs involving TLS and Git identity.
+- Diagnosed a critical embedded C firmware bug causing field reboots of an industrial controller: identified the root cause (a TLS/TCP handling overflow) and built a reproduction tool that let the Firmware team validate and implement the fix.
+- Contributed to a desktop application (Go + Wails) for device firmware recovery via the MCUboot/SMP protocol: ports/adapters architecture, CLI, and UI/UX improvements.
+- Developed end-of-line (EOL) production testing tools: migrated a Python test bench for an IoT device to Go (MQTT/mTLS, AWS IoT Core, Protobuf), and built a Go-based EOL test program using Modbus RTU for another product line.
+- Resolved internal infrastructure incidents and maintained the Nginx-based reverse proxy layer (SSL/TLS termination with Let's Encrypt/Certbot, virtual hosts, rate limiting, security headers, Docker integration); handled TLS certificate rotation, testing environments, self-managed GitLab, and contributed to an embedded controller's React/TypeScript frontend.
+
+### Full Stack Developer (Freelance) | Aloise Sur
+
+**Mar 2025 – Oct 2025**
+
+- Developed features for a financial dashboard (Next.js, TypeScript), improving consultation and visualization of operational data.
+- Contributed to the implementation of an ERP system focused on reducing manual tasks and streamlining internal processes.
+- Standardized development environments with Docker and optimized database queries to improve response times in frequent operations.
+- Built administrative interfaces and management views focused on usability and clear information display.
+
+### Trainee Apprentice | Smurfit Westrock
+
+**Jan 2024 – May 2024**
+
+- Provided technical support to internal users, resolving incidents related to systems, connectivity, and equipment.
+- Performed preventive and corrective maintenance on systems and networks; documented incidents and procedures for recurring issue tracking.
 
 ---
 
@@ -74,60 +118,26 @@ Technical documentation | Incremental planning
 
 ### Passenger Transportation Management System | Backend API
 
-Backend project focused on managing passenger transportation operations, bookings, trips, companies, users, vehicles, drivers, payments, invoicing, notifications, and operational analytics.
+Backend project focused on managing passenger transportation operations: bookings, trips, companies, users, vehicles, drivers, payments, invoicing, notifications, and operational analytics.
 
-**Technical stack:** Node.js 20, NestJS 11, TypeScript strict, PostgreSQL, Prisma ORM, Redis, BullMQ, JWT/Passport, Swagger/OpenAPI, Jest, Docker, GitHub Actions, ESLint, and Prettier.
+**Technical stack:** Node.js 20, NestJS 11, TypeScript strict, PostgreSQL, Prisma ORM, Redis, BullMQ, JWT/Passport, Swagger/OpenAPI, Jest, Docker, GitHub Actions, ESLint, Prettier.
 
 **Highlights:**
 
-- Modular monolith architecture with clear domain boundaries.
-- Modules for Auth, Companies, Users, Drivers, Vehicles, Routes, Trips, Bookings, Payments, Invoices, Notifications, Analytics, Audit Log, and Health.
-- Multi-tenant approach with request-based context resolution and support for asynchronous flows.
-- Ports/adapters pattern to decouple use cases, persistence, and cross-module integrations.
-- PostgreSQL and Prisma for relational modeling, repositories, migrations, and controlled data access.
-- Redis for cache, locks, rate limiting, and support for asynchronous processes.
-- BullMQ jobs for repeatable tasks and background processing.
-- Domain events and outbox pattern to improve traceability and internal consistency.
-- Swagger/OpenAPI documentation, environment contracts, and technical system documentation.
-- Jest testing across unit, integration, and e2e layers, including architecture guardrails, coverage, and regression checks.
+- Modular monolith architecture with clear domain boundaries and explicit inter-module contracts.
+- 14 domain modules: Auth, Companies, Users, Drivers, Vehicles, Routes, Trips, Bookings, Payments, Invoices, Notifications, Analytics, Audit Log, and Health.
+- Multi-tenant context resolution per request, ports/adapters pattern for decoupling use cases and persistence, and support for asynchronous flows.
+- Redis (cache, locks, rate limiting), BullMQ (background jobs), domain events, and outbox pattern for traceability and internal consistency.
+- Full test coverage with Jest (unit, integration, e2e), architecture guardrails, and AI-assisted test generation via SDD/TDD.
 - SDD workflow to split complex changes into proposal, design, specification, tasks, and verification before implementation.
-- TDD and AI-assisted workflows to generate test hypotheses, detect edge cases, review regressions, and validate refactors without losing technical control.
-
----
-
-## Experience
-
-### Full Stack Developer (Freelance) | Aloise Sur
-
-**Mar 2025 - Oct 2025**
-
-- Developed features for a financial dashboard, improving consultation and visualization of operational information.
-- Contributed to the implementation of an ERP system focused on reducing manual tasks and organizing internal processes.
-- Designed and developed full stack features using Next.js, TypeScript, and databases.
-- Worked on the integration between frontend, business logic, and data persistence.
-- Implemented Docker to standardize development environments and reduce environment differences.
-- Collaborated on a modular structure to support system growth.
-- Optimized queries and data structures to improve response times in frequent operations.
-- Developed administrative interfaces and management views focused on usability and clear information display.
-- Participated in requirements analysis and solution definition based on business needs.
-
-### Trainee Apprentice | Smurfit Westrock
-
-**Jan 2024 - May 2024**
-
-- Provided technical support to internal users, resolving incidents related to systems, connectivity, and equipment.
-- Performed preventive and corrective maintenance tasks on systems and networks.
-- Collaborated in the detection and resolution of technical issues within a corporate environment.
-- Documented incidents and basic procedures to support follow-up of recurring problems.
-- Strengthened troubleshooting, user communication, and support skills in production environments.
 
 ---
 
 ## Education
 
-- **University Technician in Programming** | Universidad Tecnológica Nacional FRBB | 2024 - 2025 | GPA: 8.78
-- **Information Systems Engineering** | Universidad Nacional del Sur | 2022 - 2023
-- **Professional and Personal IT Technician** | Escuela de Educación Secundaria Técnica N. º 1, Coronel Suárez | 2015 - 2021
+- **Technical Degree in Programming** | Universidad Tecnológica Nacional FRBB | 2024 – 2025 | GPA: 8.78
+- **Information Systems Engineering** | Universidad Nacional del Sur | 2022 – 2023
+- **Professional and Personal IT Technician** | Escuela de Educación Secundaria Técnica N.º 1, Coronel Suárez | 2015 – 2021
 
 ---
 
@@ -142,7 +152,7 @@ Backend project focused on managing passenger transportation operations, booking
 
 ## Contact
 
-I'm interested in backend architecture, full stack product development, technical quality, and practical AI-assisted engineering workflows.
+I'm interested in backend architecture, industrial IoT, full stack product development, technical quality, and AI-augmented engineering workflows.
 
 <div align="center">
 
@@ -160,5 +170,5 @@ I'm interested in backend architecture, full stack product development, technica
 ---
 
 <div align="center">
-  <sub>Last updated: 2026 | Full Stack Developer | Backend-Oriented | AI-assisted development</sub>
+  <sub>Last updated: Sept 2026 | Full Stack Developer | Backend & IoT | AI-augmented development</sub>
 </div>
